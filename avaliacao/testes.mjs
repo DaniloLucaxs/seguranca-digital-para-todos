@@ -1,0 +1,10 @@
+import worker,{summarize} from './formulario-worker.js';
+import assert from 'node:assert/strict';
+const data=new Map();const BUCKET={head:async k=>data.has(k)?{}:null,put:async(k,v)=>data.set(k,v),get:async k=>data.has(k)?{json:async()=>JSON.parse(data.get(k))}:null,list:async()=>({objects:[...data.keys()].map(key=>({key})),truncated:false})};
+const env={BUCKET};const origin='https://test.local';const payload={id:'12345678-1234-1234-1234-123456789012',leitura:'0',clareza:'1',conhecimento:'1',preparo:'0',acao:'0',situacao:'0'};
+const post=x=>worker.fetch(new Request(origin+'/api/respostas',{method:'POST',headers:{Origin:origin,'Content-Type':'application/json'},body:JSON.stringify(x)}),env);
+assert.equal((await post(payload)).status,201);assert.equal((await post(payload)).status,200);assert.equal(data.size,1);assert.equal((await post({...payload,situacao:9})).status,400);
+let s=await(await worker.fetch(new Request(origin+'/api/resultados'),env)).json();assert.equal(s.total,1);assert.equal(s.acertosLeitores,1);assert.equal(s.clarezaLeitores,1);assert.equal(s.preparoLeitores,1);
+assert.equal((await worker.fetch(new Request(origin+'/api/relatorio.csv'),env)).status,200);assert.equal(summarize([]).total,0);
+assert.equal((await worker.fetch(new Request(origin+'/api/respostas',{method:'POST',headers:{Origin:'https://bad.local'},body:JSON.stringify(payload)}),env)).status,403);
+console.log('Testes locais: gravação, repetição, validação, métricas, CSV, zero respostas e origem passaram. Nenhum dado de teste enviado à produção.');
