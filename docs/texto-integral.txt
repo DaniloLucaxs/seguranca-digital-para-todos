@@ -1,0 +1,469 @@
+GUIA COMUNITÁRIO • EDIÇÃO 2026
+SEGURANÇA
+DIGITAL
+PARA TODOS
+
+Um guia prático contra golpes, desinformação e riscos da internet nas comunidades.
+
+Estar conectado não significa, necessariamente, estar protegido ou bem informado.
+
+Danilo Lucas dos Santos
+Universidade Paulista — UNIP
+Análise e Desenvolvimento de Sistemas
+Projeto de Extensão Universitária | 2026
+SEGURANÇA DIGITAL PARA TODOS • DANILO LUCAS DOS SANTOS
+01
+APRESENTAÇÃO DO AUTOR
+Por que este
+e-book existe?
+
+Cresci na periferia de São Paulo e, ao longo da minha trajetória, pude observar como o acesso à informação pode fazer diferença na vida das pessoas. Hoje, aos 19 anos, como estudante de Análise e Desenvolvimento de Sistemas, percebo que a tecnologia oferece oportunidades e também desafios que nem sempre são compreendidos por todos.
+
+Essa percepção surgiu principalmente das minhas experiências familiares e da realidade em que vivo. Em grupos de WhatsApp, circulam mensagens sobre supostos benefícios financeiros, sorteios, oportunidades imperdíveis e notícias políticas sem fontes confiáveis. Já presenciei situações assim dentro da minha própria família, especialmente entre pessoas de gerações que não cresceram acompanhando a evolução da tecnologia.
+
+O problema não está simplesmente em compartilhar uma informação equivocada. Muitas mensagens são construídas para despertar confiança, curiosidade, medo ou urgência. Sem conhecer esses mecanismos, podemos acabar expondo nossos dados, nosso dinheiro e outras pessoas a riscos.
+
+Essa realidade não se limita às periferias. Golpes e desinformação podem atingir qualquer pessoa. As desigualdades no acesso à educação e à orientação tecnológica, porém, tornam ainda mais necessária a criação de materiais gratuitos e acessíveis.
+
+Foi dessas reflexões que nasceu o Segurança Digital para Todos. Quero compartilhar conhecimentos de maneira simples, prática e responsável, para ajudar as pessoas a reconhecer situações suspeitas, questionar o que recebem e tomar decisões mais seguras.
+
+Aprender a verificar
+
+Não se trata de desconfiar de tudo, mas de aprender a verificar antes de acreditar, compartilhar ou agir.
+
+Acredito que o conhecimento só cumpre plenamente seu papel quando pode ser compartilhado. Se este material ajudar uma única pessoa a evitar um golpe ou identificar uma informação falsa, já terá produzido um resultado importante.
+
+Danilo Lucas dos Santos
+Estudante de Análise e Desenvolvimento de Sistemas • UNIP
+
+SEGURANÇA DIGITAL PARA TODOS • DANILO LUCAS DOS SANTOS
+02
+01 / ACESSO, CONHECIMENTO E CUIDADO
+Estar conectado
+é estar protegido?
+
+Usar o celular todos os dias não significa conhecer todos os riscos. Uma pessoa pode conversar por vídeo, pagar contas e ainda ter dificuldade para reconhecer uma página falsa. Isso não é falta de inteligência: muitos golpes imitam situações comuns e exploram nossa atenção em momentos de pressa.
+
+ACESSO
+
+Ter aparelho, conexão e condições de usar a internet.
+
+ALFABETIZAÇÃO DIGITAL
+
+Entender ferramentas, avaliar informações e saber quando pedir ajuda.
+
+SEGURANÇA DIGITAL
+
+Adotar cuidados para proteger contas, dados, dispositivos e decisões.
+
+Uma rotina possível
+
+Você recebe uma cobrança enquanto volta do trabalho. Antes de pagar, abre por conta própria o aplicativo da empresa e confere se a dívida aparece. Essa pequena mudança evita depender do link e da explicação enviados por quem está cobrando.
+
+Na informação, o cuidado é parecido: antes de encaminhar uma notícia, procure a publicação original, a data e outras fontes. Um conteúdo pode ser verdadeiro e estar sendo usado para explicar um acontecimento diferente.
+
+Comece com três hábitos
+
+Reserve um momento para verificar pedidos de dinheiro; ative a proteção adicional das contas; confira a origem de mensagens antes de repassá-las.
+
+Como usar este guia
+
+Leia no seu ritmo. As páginas 5, 6 e 10 trazem casos fictícios. Na página 12 há um roteiro para decidir com mais calma. Se já aconteceu um incidente, vá à página 14. Depois, faça os exercícios da página 15.
+
+Base: CERT.br — Golpes, Autenticação e Boatos [1].
+03
+02 / RECONHEÇA A PRESSÃO
+Como os golpes
+digitais funcionam
+
+Engenharia social é a manipulação de pessoas para conseguir informações ou provocar uma ação. Em vez de quebrar uma proteção técnica, o golpista tenta convencer alguém a transferir dinheiro, revelar um código ou instalar um programa.
+
+A mensagem pode parecer pessoal: nome, foto, voz e informações públicas ajudam a construir confiança. Até uma conta conhecida pode ter sido invadida. Por isso, reconhecer o remetente não basta para confirmar o pedido.
+
+Urgência
+“Faça agora, senão perde.” A pressa reduz o tempo para conferir.
+Medo
+“Sua conta será bloqueada.” A ameaça pode fazer a pessoa obedecer sem pensar.
+Autoridade
+“Sou da central do banco.” Uniforme, logotipo ou linguagem formal podem ser imitados.
+Recompensa
+“Você ganhou; pague uma taxa.” A promessa desvia a atenção do custo e do risco.
+Confiança
+“É alguém da família.” A proximidade emocional pode substituir a verificação.
+Interrompa o roteiro
+
+Não discuta com quem pressiona. Encerre o contato e procure o serviço no aplicativo já instalado ou em um endereço obtido fora da mensagem. Se for uma pessoa próxima, ligue para o número que você já tinha salvo.
+
+Uma pergunta que ajuda
+
+“Como posso confirmar isso sem usar o link, o telefone ou a explicação fornecidos por quem me abordou?”
+
+Base: CERT.br — Golpes e Golpes: Evite fraudes [1].
+04
+03 / WHATSAPP • CASO A
+“Troquei de número.
+Faz um Pix para mim?”
+
+Exemplo fictício para fins educativos
+
+Oi, mãe. Meu celular quebrou. Salva este número.
+
+Preciso pagar uma conta agora. Faz um Pix? Depois eu devolvo.
+
+A conta está no nome de outra pessoa. Não consigo falar por ligação.
+
+Por que parece verdadeiro?
+
+O perfil usa a foto de um familiar e uma forma de falar conhecida. O pedido se apoia no cuidado com a família e apresenta uma justificativa para a mudança de número. Foto e nome, porém, podem ser copiados.
+
+O que merece atenção?
+Número desconhecido, pressa e recusa de uma ligação por outro canal.
+Pedido de dinheiro com destinatário diferente e explicações que impedem a confirmação.
+Solicitação para manter segredo ou ignorar alertas do banco.
+Como confirmar e agir
+
+Não transfira enquanto houver dúvida. Ligue para o número antigo, já salvo, ou procure o familiar pessoalmente. Se ele não atender, espere ou fale com outra pessoa da família por um contato conhecido. Não use apenas o número novo para confirmar a identidade.
+
+Mesmo que chegue um áudio convincente, faça a confirmação independente. Se ficar comprovado que é fraude, guarde o registro necessário e use as opções de denúncia e bloqueio do WhatsApp.
+
+Código é pessoal
+
+Não entregue códigos recebidos por SMS, aplicativo ou e-mail. Um pedido de “ajuda para confirmar meu cadastro” pode servir para tomar sua conta.
+
+Base: CERT.br — Golpes, Autenticação e Golpes: O que fazer [1].
+05
+04 / PROMESSA DE DINHEIRO • CASO B
+Pix, benefícios
+e falsas oportunidades
+
+Exemplo fictício para fins educativos
+
+Uma mensagem encaminhada promete um “auxílio extra liberado hoje”. Usa uma imagem de órgão público e diz que basta cadastrar CPF e dados bancários em um link. Ao final, cobra uma taxa para liberar o valor.
+
+O que desperta confiança: o logotipo, o encaminhamento de um conhecido e a promessa de aliviar uma despesa. Alertas: prazo apertado, coleta de dados sem explicação e pagamento para receber o suposto benefício.
+
+Verifique fora da mensagem
+
+Procure o benefício no aplicativo ou site oficial do órgão responsável, acessado por conta própria. Confira os critérios e se o programa existe. Não preencha o cadastro nem pague a taxa enquanto o anúncio não estiver confirmado. Se necessário, procure o atendimento oficial do serviço.
+
+Loja ou promoção falsa
+
+Preço muito abaixo do comum e pagamento imediato podem esconder uma loja inventada. Pesquise o vendedor, o histórico e os canais de atendimento. Logotipo e CNPJ exibidos não comprovam que o site pertence à empresa.
+
+Emprego ou sorteio falso
+
+Taxa para garantir vaga, compra obrigatória de material ou prêmio que depende de depósito pedem cautela. Confirme a seleção diretamente com a empresa. Não entregue documentos só para “reservar” a oportunidade.
+
+Antes de confirmar o Pix
+
+Confira nome do recebedor, instituição e valor. Se os dados não combinarem com o combinado, pare. Um QR Code pode direcionar o pagamento ao destinatário errado. Pix é um meio de pagamento; não certifica a honestidade de uma oferta.
+
+Base: CERT.br — Golpes: Evite fraudes [1]; Banco Central — Pix [2].
+06
+05 / O CAMINHO ATÉ A PÁGINA IMPORTA
+Links suspeitos
+e roubo de dados
+
+Phishing é uma tentativa de enganar alguém, geralmente imitando uma pessoa ou serviço, para obter dados ou induzir ações prejudiciais. O link pode levar a uma tela parecida com a do banco, da loja ou do governo. Ao digitar a senha, você pode entregá-la a outra pessoa.
+
+Leia o endereço com cuidado
+Exemplo fictício de endereço reservado para ilustração
+https://atendimento.example.org/beneficio
+
+Domínio: example.org
+Parte anterior: atendimento
+Caminho: /beneficio
+
+O nome de uma marca no caminho ou em outra parte do endereço não prova que o site pertence a ela. Trocas de letras, palavras extras e links encurtados podem dificultar a identificação. Se não souber avaliar, não tente adivinhar: entre pelo aplicativo oficial que você já utiliza.
+
+O cadeado não é um selo de confiança
+
+HTTPS protege a comunicação entre seu aparelho e aquele site. Uma página fraudulenta também pode usar HTTPS. O cadeado não comprova que a empresa ou a oferta é legítima.
+
+Um caminho mais seguro
+Feche a mensagem e abra o aplicativo do serviço por conta própria.
+Para um serviço novo, procure o canal oficial em uma fonte confiável; tenha cuidado com anúncios que imitam suporte.
+Não envie senha, código ou foto de documento para “desbloquear” um prêmio.
+Não instale aplicativos ou arquivos indicados em cobranças inesperadas.
+
+No celular, a prévia do link pode ajudar a ler o destino, mas não oferece garantia. Não é necessário abrir uma página suspeita para testá-la.
+
+Base: CERT.br — Golpes e Golpes: Evite fraudes [1].
+07
+06 / SENHAS, CÓDIGOS E DISPOSITIVOS
+Contas protegidas,
+menos portas abertas
+Use uma senha diferente em cada conta
+
+Se uma senha for descoberta em um serviço, sua repetição permite tentar entrar em outros. Prefira senhas longas, difíceis de adivinhar, sem nomes e datas pessoais. Um gerenciador de senhas ajuda a criar e guardar combinações únicas; proteja-o com uma senha principal forte e autenticação adicional.
+
+Ative a autenticação multifator
+
+É uma proteção extra além da senha: pode usar um aplicativo autenticador, uma chave de segurança ou outro fator oferecido pelo serviço. Quando disponíveis, prefira chaves de segurança ou um aplicativo autenticador. Se o serviço só oferecer SMS, ainda vale ativar essa camada.
+
+Nunca informe códigos a outras pessoas nem aprove uma solicitação de entrada que você não iniciou. No WhatsApp, procure as configurações de conta e a confirmação em duas etapas. Os nomes dos menus podem mudar.
+
+Prepare a recuperação
+
+Mantenha e-mail e telefone de recuperação atualizados. Guarde códigos de recuperação em local protegido, separado do aparelho. O e-mail principal merece atenção: ele permite recuperar muitas outras contas.
+
+Cuide do aparelho
+
+Ative bloqueio de tela, atualize o sistema e os aplicativos, use lojas oficiais e confira permissões. Faça cópias de segurança e saiba como recuperá-las.
+
+Ajuste que você pode fazer hoje
+
+Escolha uma conta importante. Troque a senha repetida, ative a proteção adicional e confira os dispositivos conectados. Encerre sessões que você não reconhece.
+
+Em aparelhos compartilhados, evite salvar senhas e saia das contas ao terminar. Peça ajuda para configurar sem entregar o controle permanente da sua conta.
+
+Base: CERT.br — Autenticação; Celulares e tablets; Proteção de dados [1].
+08
+07 / EMOÇÃO, CONTEXTO E EVIDÊNCIA
+Por que informações
+falsas circulam?
+
+Uma mensagem pode parecer útil, urgente ou alinhada ao que já pensamos. A vontade de ajudar e o receio de perder um alerta favorecem o compartilhamento. Quando várias pessoas repetem uma história, ela pode ganhar aparência de confirmação — mesmo que todas tenham copiado a mesma fonte.
+
+Chamamos de desinformação o conteúdo falso ou enganoso usado deliberadamente para induzir ao erro. Quem o encaminha pode não saber disso. Também existem erros honestos, sátiras interpretadas literalmente e informações verdadeiras apresentadas fora de contexto. Nem sempre é possível saber a intenção de quem publicou.
+
+Opinião
+
+“Considero essa proposta ruim.” Expressa um julgamento; pode ser debatido e deve ser distinguido dos dados usados para sustentá-lo.
+
+Alegação factual
+
+“A proposta foi aprovada ontem.” Pode ser verificada em registros e documentos.
+
+Erro
+
+Uma data foi informada incorretamente. Corrigir com transparência é diferente de continuar divulgando algo já desmentido.
+
+Olhe além da manchete
+
+Leia o conteúdo completo. Confira data, autoria, lugar e a origem de números e imagens. Uma foto real de outra cidade não comprova que algo aconteceu no seu bairro. Uma manchete pode omitir condições que mudam o sentido da notícia.
+
+Popularidade não comprova verdade
+
+Muitas curtidas, uma pessoa famosa ou o aviso “encaminhada muitas vezes” não substituem evidências. Busque fontes independentes: várias páginas copiando o mesmo texto não são várias confirmações.
+
+Base: CERT.br — Boatos [1].
+09
+08 / VERIFICAR SEM ESCOLHER UM LADO • CASO C
+Política e eleições:
+confira o contexto
+
+Exemplo fictício para fins educativos
+
+Um grupo recebe a imagem de uma fila diante de uma escola. O título diz: “Votação cancelada hoje na cidade inteira”. A fotografia é real, mas foi feita anos antes, em outro município, por um problema localizado.
+
+O que dá aparência de credibilidade?
+
+A foto de um lugar reconhecível, o título categórico e comentários indignados fazem o aviso parecer atual. A ausência de data, local preciso e documento oficial é um sinal de alerta. Uma ocorrência isolada também não permite concluir o que aconteceu em toda a cidade.
+
+Como verificar a alegação
+Procure a publicação original e identifique quando e onde a imagem foi registrada. A busca reversa de imagens pode ajudar a encontrar usos anteriores, mas não resolve todos os casos.
+Consulte os canais oficiais do TSE e do Tribunal Regional Eleitoral do estado para informações sobre votação. Confira também veículos com apuração identificada.
+Se a mensagem citar uma decisão, leia o documento completo e confira seu alcance. Um trecho ou título pode omitir condições importantes.
+Conduta recomendada
+
+Não encaminhe o aviso como fato. Se a informação estiver desmentida, compartilhe a correção com a fonte e explique o erro de contexto, sem atacar quem enviou. Se não houver evidência suficiente, diga que a alegação não foi confirmada.
+
+O mesmo critério para qualquer mensagem
+
+Avalie provas e contexto, inclusive quando a mensagem favorece uma posição com a qual você concorda. Uma afirmação documentada e outra sem comprovação não merecem o mesmo peso só porque representam lados diferentes.
+
+Discordar de uma proposta faz parte do debate. Atribuir a alguém uma fala que não fez ou apresentar uma imagem antiga como atual é uma questão verificável.
+
+Base: CERT.br — Boatos [1]. Canal oficial para consulta: TSE [4].
+10
+09 / VER OU OUVIR JÁ NÃO BASTA
+Inteligência artificial
+e deepfakes
+
+Ferramentas de inteligência artificial podem gerar textos, imagens, vozes e vídeos. Deepfakes são conteúdos sintéticos ou manipulados que podem simular a aparência ou a voz de alguém. Há usos criativos e educativos, mas também tentativas de fraude, difamação e desinformação.
+
+Um áudio com a voz de um familiar pode ser falso. Um vídeo de uma autoridade pode ter sido editado ou produzido artificialmente. Além disso, conteúdos que não usam IA também enganam: cortes de fala e legendas falsas continuam circulando.
+
+Nenhum detalhe isolado resolve
+
+Mãos estranhas, falhas na voz ou movimentos incomuns podem levantar dúvidas, mas não são uma prova. Conteúdos sintéticos podem parecer naturais; gravações verdadeiras podem ter defeitos. Detectores automáticos também podem errar.
+
+Troque o palpite por um procedimento
+Procure quem publicou primeiro e se há uma versão completa, com data e contexto.
+Confira se a pessoa ou instituição se manifestou em seus canais oficiais. Busque cobertura independente e checagens com método explicado.
+Se houver pedido de dinheiro, desligue e confirme por um contato que você já conhece. Um rosto na videochamada não dispensa essa etapa.
+Se não conseguir confirmar, não apresente o conteúdo como prova nem o encaminhe como fato.
+Ao usar uma ferramenta de IA
+
+Uma resposta bem escrita pode conter dados e referências inventados. Abra as fontes citadas e confira se sustentam a resposta. Não envie documentos pessoais, senhas ou dados de terceiros sem necessidade e sem avaliar como serão tratados.
+
+Uma etiqueta de “gerado por IA” ajuda a entender a origem. A ausência da etiqueta não comprova autenticidade.
+
+Base: CERT.br — Inteligência Artificial, Boatos e Golpes [1]; ANPD — Deepfakes [7].
+11
+10 / QUATRO ETAPAS PARA DECIDIR
+Antes de compartilhar:
+verifique
+
+Este método educativo organiza uma pausa para verificar mensagens, notícias e pedidos de dinheiro. Ele não garante detectar toda fraude, mas ajuda a sair da pressão e buscar evidências.
+
+1 · PARE
+
+Não clique, pague ou encaminhe por impulso. A urgência veio de quem?
+
+↓
+2 · IDENTIFIQUE
+
+Quem publicou? Qual a fonte original, a data e o contexto? O que está sendo pedido?
+
+↓
+3 · CONFIRA
+
+Busque confirmação independente. Acesse o serviço por conta própria ou ligue para um contato conhecido.
+
+↓
+4 · DECIDA
+
+Há evidências suficientes? Se não, não repasse nem pague. Se foi desmentido, corrija com a fonte.
+
+Aplicação: a promessa de benefício
+
+Pare: não preencha o cadastro só porque a mensagem diz “último dia”. Identifique: falta o órgão responsável e não há regulamento. Confira: abra o canal oficial do suposto programa sem usar o link recebido. Decida: sem confirmação, não envie dados e não divulgue a promessa.
+
+Verificar é diferente de pedir opinião
+
+Perguntar no mesmo grupo “isso é verdade?” pode apenas repetir a dúvida. Procure uma fonte capaz de demonstrar a informação ou confirmar o pedido por outro canal.
+
+Método editorial deste guia, fundamentado em CERT.br — Boatos e Golpes [1].
+12
+11 / CUIDADO EM FAMÍLIA
+Segurança digital
+também é conversa
+
+Quem compartilha uma mensagem pode estar tentando ajudar. Corrigir com ironia ou expor alguém no grupo costuma dificultar a conversa. Comece pelo que vocês têm em comum: proteger a família e evitar que outras pessoas sejam enganadas.
+
+“Obrigado por avisar. Essa mensagem pede dados e não mostra de onde veio. Vamos conferir no canal oficial antes de repassar?”
+Ajude sem tirar a autonomia
+
+Peça permissão antes de mexer no celular de outra pessoa. Explique cada ajuste e deixe que ela faça a ação quando possível. Não peça a senha para “cuidar de tudo” nem mantenha acesso às contas sem necessidade. Perguntar e aprender deve ser seguro, sem vergonha.
+
+Façam um combinado simples
+Pedido de dinheiro por número novo será confirmado por um contato já conhecido.
+Ninguém precisa responder imediatamente a uma cobrança inesperada.
+Códigos de verificação não serão enviados a parentes nem a supostos atendentes.
+Se algo der errado, a pessoa poderá pedir ajuda sem ser ridicularizada.
+Um encontro de quinze minutos
+
+Escolham uma conta para ativar a proteção adicional. Depois, leiam juntos uma mensagem duvidosa e apliquem o roteiro da página 12. Não usem mensagens privadas de outras pessoas em demonstrações públicas. Ao terminar, combinem quem pode ajudar em caso de dúvida, preservando a privacidade.
+
+Se uma mensagem falsa já foi compartilhada
+
+Avise no mesmo espaço, com calma: “Eu encaminhei antes de conferir. A informação está fora de contexto; esta é a fonte correta.” Evite reproduzir o link suspeito na correção.
+
+Idade e lugar de moradia não determinam capacidade de aprender. O ritmo, a experiência e as necessidades de cada pessoa merecem respeito.
+
+Base: CERT.br — Boatos, Autenticação e Privacidade [1]; SaferNet — Canal de Ajuda [5].
+13
+12 / AJA CONFORME O QUE ACONTECEU
+Caí em um golpe.
+O que fazer agora?
+
+Interrompa o contato e busque ajuda sem se culpar. Se houve transferência, fale com a instituição financeira imediatamente. Use o aplicativo ou um telefone obtido no canal oficial; não o contato enviado pelo suspeito.
+
+Só recebeu a mensagem
+Não responda, não abra anexos e não pague. Guarde o registro necessário, denuncie pela plataforma e bloqueie o contato suspeito.
+Clicou em um link
+Feche a página. Um clique não comprova invasão. Confira se baixou arquivos, instalou algo ou concedeu permissões; não execute arquivos recebidos. Atualize o sistema e faça uma verificação de segurança. Se instalou aplicativo suspeito ou acesso remoto, interrompa a conexão e procure suporte confiável; use outro aparelho seguro para proteger contas e avisar o banco.
+Informou uma senha ou código
+Em um aparelho confiável, troque a senha da conta e de outras que repetiam a combinação. Confira dados de recuperação, encerre sessões desconhecidas e ative a proteção adicional. Priorize o e-mail usado para recuperar outras contas.
+Perdeu acesso à conta
+Use a recuperação oficial do serviço. Avise contatos por outro canal para que ignorem pedidos em seu nome. Não pague a desconhecidos que prometem recuperar o acesso.
+Fez uma transferência fraudulenta
+Contate o banco imediatamente, relate a fraude e guarde o protocolo. Em Pix, conteste a transação e peça orientação sobre o Mecanismo Especial de Devolução (MED). Ele depende das regras aplicáveis e da análise do caso; não garante devolução. O MED não é um cancelamento de Pix e não se aplica automaticamente a desacordo comercial ou envio à pessoa errada. Para cartão ou outros pagamentos, peça a contestação correspondente.
+Preserve evidências, sem atrasar o banco
+
+Guarde conversas, comprovantes, endereços e horários. Registre boletim de ocorrência pelo canal oficial da polícia do seu estado e siga a orientação recebida. Não publique documentos ou dados bancários em grupos.
+
+Se enviou documentos, monitore usos indevidos de seus dados e procure as instituições envolvidas. Não faça novos pagamentos para “liberar” uma devolução.
+
+Base: CERT.br — Golpes: O que fazer [1]; Banco Central — MED [3].
+14
+13 / EXERCÍCIOS E CHECKLIST
+Teste seus conhecimentos
+e leve os hábitos com você
+
+Situações fictícias para fins educativos
+
+1. O número novo
+
+Uma pessoa com foto do seu irmão pede Pix urgente e diz que não pode atender. Você paga ou liga para o contato antigo? Que sinais chamaram sua atenção?
+
+2. A página com cadeado
+
+Um link promete um benefício. Há HTTPS, mas a página cobra uma taxa. Você preenche o cadastro ou procura o órgão em seu canal oficial? O cadeado basta?
+
+3. O vídeo indignante
+
+Um vídeo curto atribui uma fala grave a uma figura pública. Não há data nem origem. Você encaminha ou procura a versão completa e outras fontes?
+
+Respostas comentadas
+
+1. Ligue para o contato já conhecido. Número novo, urgência e impedimento de confirmar exigem verificação; a foto não autentica o pedido. 2. Procure o canal oficial. A taxa e a promessa pedem cautela; HTTPS não prova legitimidade. 3. Busque o original, a data e confirmação independente. Um corte pode mudar o sentido, mesmo sem IA.
+
+Checklist para a próxima semana
+Uso senhas diferentes nas contas importantes.
+Ativei autenticação adicional e revisei a recuperação.
+Mantenho aparelho e aplicativos atualizados.
+Confirmo pedidos de dinheiro por outro canal.
+Verifico fonte, data e contexto antes de compartilhar.
+Sei onde procurar ajuda e guardar evidências.
+Escolha uma ação concreta
+
+Qual cuidado você vai aplicar primeiro? Escreva ou converse com alguém de confiança. Volte ao checklist depois de colocar a mudança em prática.
+
+Exercícios e checklist originais, baseados nas referências [1–5].
+15
+FONTES PARA CONTINUAR APRENDENDO
+Referências, créditos
+e avaliação
+
+[1] CERT.br / NIC.br. Cartilha de Segurança para Internet. Fascículos: Autenticação; Golpes; Golpes: Evite fraudes; Golpes: O que fazer; Boatos; Inteligência Artificial; Privacidade; Proteção de dados; Celulares e tablets.
+cartilha.cert.br/fasciculos/
+
+[2] Banco Central do Brasil. Pix: informações oficiais.
+bcb.gov.br/estabilidadefinanceira/pix
+
+[3] Banco Central do Brasil. Pergunta frequente sobre o Mecanismo Especial de Devolução (MED).
+Acessar a orientação oficial sobre MED
+
+[4] Tribunal Superior Eleitoral. Fato ou Boato: canal da Justiça Eleitoral indicado no portal do TSE.
+justicaeleitoral.jus.br/fato-ou-boato/
+
+[5] SaferNet Brasil. Canal de Ajuda: orientação sobre situações de risco e violência na internet.
+new.safernet.org.br/helpline
+
+[6] Nações Unidas Brasil. Objetivos de Desenvolvimento Sustentável. O projeto se relaciona à educação (ODS 4), à redução de desigualdades de acesso ao conhecimento (ODS 10) e ao acesso responsável à informação e às instituições (ODS 16). Esse alinhamento não demonstra impacto já alcançado.
+brasil.un.org/pt-br/sdgs
+
+[7] ANPD. Radar Tecnológico nº 6 — Deepfakes.
+Acessar o estudo sobre deepfakes
+
+Créditos e método
+
+Autor: Danilo Lucas dos Santos • UNIP • ADS • 2026. Texto e diagramas preparados com apoio de IA a partir do relato fornecido pelo autor e de fontes públicas. Casos e exercícios são fictícios. Revisão automatizada técnica, factual, pedagógica e visual; sem validação institucional ou revisão humana especializada declarada.
+
+Atualização e consulta: 7 de novembro de 2026. Links e procedimentos podem mudar. O registro detalhado de fontes acompanha o projeto editável. Este material é educativo e não substitui atendimento do banco, da plataforma ou da autoridade competente.
+
+ESPAÇO
+PARA QR CODE
+
+aguarda formulário real
+Sua avaliação ajuda
+
+O formulário ainda não foi publicado.
+Link de avaliação: a inserir após publicação.
+Você pode conversar com quem entregou o guia sobre o que aprendeu, sem informar senhas ou dados bancários.
+
+SEGURANÇA DIGITAL PARA TODOS • DANILO LUCAS DOS SANTOS
+16

@@ -1,0 +1,195 @@
+{
+  "paginas": 16,
+  "bytes": 237003,
+  "mobile": {
+    "width": 390,
+    "scroll": 390,
+    "pages": [
+      {
+        "page": 1,
+        "gap": 43
+      },
+      {
+        "page": 2,
+        "gap": 31
+      },
+      {
+        "page": 3,
+        "gap": 38
+      },
+      {
+        "page": 4,
+        "gap": 41
+      },
+      {
+        "page": 5,
+        "gap": 41
+      },
+      {
+        "page": 6,
+        "gap": 41
+      },
+      {
+        "page": 7,
+        "gap": 38
+      },
+      {
+        "page": 8,
+        "gap": 31
+      },
+      {
+        "page": 9,
+        "gap": 41
+      },
+      {
+        "page": 10,
+        "gap": 38
+      },
+      {
+        "page": 11,
+        "gap": 31
+      },
+      {
+        "page": 12,
+        "gap": 34
+      },
+      {
+        "page": 13,
+        "gap": 31
+      },
+      {
+        "page": 14,
+        "gap": 31
+      },
+      {
+        "page": 15,
+        "gap": 36
+      },
+      {
+        "page": 16,
+        "gap": 17
+      }
+    ]
+  },
+  "erros_js": [],
+  "links": [
+    {
+      "url": "https://cartilha.cert.br/fasciculos/",
+      "status": 200,
+      "final": "https://cartilha.cert.br/fasciculos/"
+    },
+    {
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/pix",
+      "status": 200,
+      "final": "https://www.bcb.gov.br/estabilidadefinanceira/pix"
+    },
+    {
+      "url": "https://www.bcb.gov.br/meubc/faqs/p/o-que-e-e-como-funciona-o-mecanismo-especial-de-devolucao-med",
+      "status": 200,
+      "final": "https://www.bcb.gov.br/meubc/faqs/p/o-que-e-e-como-funciona-o-mecanismo-especial-de-devolucao-med"
+    },
+    {
+      "url": "https://www.justicaeleitoral.jus.br/fato-ou-boato/",
+      "status": 200,
+      "final": "https://www.justicaeleitoral.jus.br/fato-ou-boato/"
+    },
+    {
+      "url": "https://new.safernet.org.br/helpline",
+      "status": 200,
+      "final": "https://new.safernet.org.br/helpline"
+    },
+    {
+      "url": "https://brasil.un.org/pt-br/sdgs",
+      "status": 200,
+      "final": "https://brasil.un.org/pt-br/sdgs"
+    },
+    {
+      "url": "https://www.gov.br/anpd/pt-br/centrais-de-conteudo/documentos-tecnicos-orientativos/rt_deepfakes_anpd.pdf",
+      "status": 200,
+      "final": "https://www.gov.br/anpd/pt-br/centrais-de-conteudo/documentos-tecnicos-orientativos/rt_deepfakes_anpd.pdf"
+    }
+  ],
+  "paginas_detalhe": [
+    {
+      "pagina": 1,
+      "caracteres": 439,
+      "links": 0
+    },
+    {
+      "pagina": 2,
+      "caracteres": 2077,
+      "links": 0
+    },
+    {
+      "pagina": 3,
+      "caracteres": 1539,
+      "links": 0
+    },
+    {
+      "pagina": 4,
+      "caracteres": 1359,
+      "links": 0
+    },
+    {
+      "pagina": 5,
+      "caracteres": 1452,
+      "links": 0
+    },
+    {
+      "pagina": 6,
+      "caracteres": 1642,
+      "links": 0
+    },
+    {
+      "pagina": 7,
+      "caracteres": 1570,
+      "links": 0
+    },
+    {
+      "pagina": 8,
+      "caracteres": 1756,
+      "links": 0
+    },
+    {
+      "pagina": 9,
+      "caracteres": 1554,
+      "links": 0
+    },
+    {
+      "pagina": 10,
+      "caracteres": 1883,
+      "links": 0
+    },
+    {
+      "pagina": 11,
+      "caracteres": 1789,
+      "links": 0
+    },
+    {
+      "pagina": 12,
+      "caracteres": 1250,
+      "links": 0
+    },
+    {
+      "pagina": 13,
+      "caracteres": 1801,
+      "links": 0
+    },
+    {
+      "pagina": 14,
+      "caracteres": 2212,
+      "links": 0
+    },
+    {
+      "pagina": 15,
+      "caracteres": 1563,
+      "links": 0
+    },
+    {
+      "pagina": 16,
+      "caracteres": 2115,
+      "links": 7
+    }
+  ],
+  "pdf_marcado": true
+}
